@@ -1,7 +1,7 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GBKX45RTV4NQCR4EBH74NDVHNH2LSVWRK5WVFWENLYE35PXSFQ2T5SL5",
+"GD5TVDI2RN7D35BOEOEUIZTYRAEY2F765KHAD27WJW3N52D6FRXMBYQ5",
 ]
 
 [DOCUMENTATION]
@@ -15,7 +15,7 @@ ORG_LOGO="https://www.ochsner-stellar.com/och.png"
 code="Ochsner"
 status="live"
 display_decimals=2
-issuer="GBKX45RTV4NQCR4EBH74NDVHNH2LSVWRK5WVFWENLYE35PXSFQ2T5SL5"
+issuer="GD5TVDI2RN7D35BOEOEUIZTYRAEY2F765KHAD27WJW3N52D6FRXMBYQ5"
 name="Ochsner"
 desc="Ochsner Digital Medicine empowers you to take control of high blood pressure and/or Type 2 diabetes with guidance, support and monitoring from home."
 image="https://www.ochsner-stellar.com/och.png"
